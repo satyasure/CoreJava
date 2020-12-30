@@ -1,2 +1,1 @@
-# SATYA
-CICD
+# Java Complete reference Ebook
